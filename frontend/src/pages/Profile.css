@@ -1,0 +1,39 @@
+body{
+    background-image: url('../../public/images/profile1.jpg');
+    background-repeat: no-repeat;
+    /* background-color: aqua; */
+}
+.body{
+    height: 500px;
+    width: 800px;
+    background-color: aliceblue;
+    margin: auto;
+    margin-top: 80px;
+}
+h4 {
+    padding-top: 30px;
+    padding-left: 350px;
+    margin: auto;
+    color: #170e0e;
+    font-size: 24px;
+  }
+.img{
+    background-image: url('../../public/images/user.jpg');
+    background-repeat: no-repeat;
+    border-radius: 70%;
+    height: 80px;
+    width: 70px;
+    margin: auto;
+}
+.user{
+    margin: auto;
+    /* padding-top: 30px; */
+    padding-left: 360px;
+}
+.partie1{
+    /* margin-left: 30px; */
+    color: blue;
+    margin: auto;
+    padding-left: 50px;
+    padding-top: 100px;
+}
